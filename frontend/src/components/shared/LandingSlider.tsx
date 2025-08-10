@@ -24,8 +24,6 @@ import { ImportantLinks } from "@/constants/navbarItems";
 import Link from "next/link";
 
 export default function LandingSlider() {
-  // It's good practice to name your component function
-
   return (
     <main>
       <div className="w-full mx-auto">
