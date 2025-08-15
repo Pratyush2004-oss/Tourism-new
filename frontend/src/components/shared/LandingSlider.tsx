@@ -23,7 +23,6 @@ import { Button } from "../ui/button";
 import { ImportantLinks } from "@/constants/navbarItems";
 import Link from "next/link";
 
-
 export default function LandingSlider() {
   return (
     <main>
