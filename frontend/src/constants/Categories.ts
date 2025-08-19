@@ -1,6 +1,6 @@
 export const CATEGORIES = [
   {
-    name: "Summer Treks",
+    name: "Summer-Treks",
     image:
       "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
     starting: 3000,
@@ -16,20 +16,20 @@ export const CATEGORIES = [
         name: "Badrinath Trek",
         image:
           "https://images.unsplash.com/photo-1607836046730-3317bd58a31b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
-        starting: 3000,
+        starting: 4000,
         days: 4,
       },
       {
         name: "Tungnath Trek",
         image:
           "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
-        starting: 3000,
+        starting: 5000,
         days: 2,
       },
     ],
   },
   {
-    name: "Maharashtra Trek",
+    name: "Maharashtra-Trek",
     image:
       "https://images.unsplash.com/photo-1577516311194-eb14c570a137?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGhpbWFsYXlhfGVufDB8fDB8fHww",
     starting: 2500,
@@ -80,7 +80,7 @@ export const CATEGORIES = [
     ],
   },
   {
-    name: "Customized Trips",
+    name: "Customized-Trips",
     image:
       "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
     starting: 3000,
@@ -109,7 +109,7 @@ export const CATEGORIES = [
     ],
   },
   {
-    name: "Bike Tours",
+    name: "Bike-Tours",
     image:
       "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
     starting: 3000,
@@ -138,7 +138,7 @@ export const CATEGORIES = [
     ],
   },
   {
-    name: "All Trips",
+    name: "All-Trips",
     image:
       "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
     starting: 3000,
@@ -167,7 +167,7 @@ export const CATEGORIES = [
     ],
   },
   {
-    name: "Camping Tours",
+    name: "Camping-Tours",
     image:
       "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
     starting: 3000,
@@ -196,7 +196,7 @@ export const CATEGORIES = [
     ],
   },
   {
-    name: "Corporate trips and treks",
+    name: "Corporate-trips-and-treks",
     image:
       "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
     starting: 3000,
@@ -225,7 +225,7 @@ export const CATEGORIES = [
     ],
   },
   {
-    name: "Village Trips",
+    name: "Village-Trips",
     image:
       "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
     starting: 3000,
@@ -276,7 +276,7 @@ export const CATEGORIES = [
     ],
   },
   {
-    name: "Backpacking Trips",
+    name: "Backpacking-Trips",
     image:
       "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
     starting: 3000,
@@ -305,7 +305,7 @@ export const CATEGORIES = [
     ],
   },
   {
-    name: "Weekend Treks",
+    name: "Weekend-Treks",
     image:
       "https://images.unsplash.com/photo-1577516311194-eb14c570a137?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGhpbWFsYXlhfGVufDB8fDB8fHww",
     starting: 2500,
@@ -325,5 +325,106 @@ export const CATEGORIES = [
         days: 7,
       },
     ],
+  },
+];
+
+export const Packages = [
+  {
+    name: "Kedarnath Trek",
+    image:
+      "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 5,
+  },
+  {
+    name: "Badrinath Trek",
+    image:
+      "https://images.unsplash.com/photo-1607836046730-3317bd58a31b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 4000,
+    days: 4,
+  },
+  {
+    name: "Tungnath Trek",
+    image:
+      "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 5000,
+    days: 2,
+  },
+  {
+    name: "Bejing Trek",
+    image:
+      "https://images.unsplash.com/photo-1577516311194-eb14c570a137?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGhpbWFsYXlhfGVufDB8fDB8fHww",
+    starting: 2500,
+    days: 9,
+  },
+  {
+    name: "Mumbai Trek",
+    image:
+      "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 2500,
+    days: 7,
+  },
+  {
+    name: "Kedarnath Trek",
+    image:
+      "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 5,
+  },
+  {
+    name: "Badrinath Trek",
+    image:
+      "https://images.unsplash.com/photo-1607836046730-3317bd58a31b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 4,
+  },
+  {
+    name: "Tungnath Trek",
+    image:
+      "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 2,
+  },
+  {
+    name: "Kedarnath Trek",
+    image:
+      "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 5,
+  },
+  {
+    name: "Badrinath Trek",
+    image:
+      "https://images.unsplash.com/photo-1607836046730-3317bd58a31b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 4,
+  },
+  {
+    name: "Tungnath Trek",
+    image:
+      "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 2,
+  },
+  {
+    name: "Kedarnath Trek",
+    image:
+      "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 5,
+  },
+  {
+    name: "Badrinath Trek",
+    image:
+      "https://images.unsplash.com/photo-1607836046730-3317bd58a31b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 4,
+  },
+  {
+    name: "Tungnath Trek",
+    image:
+      "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
+    starting: 3000,
+    days: 2,
   },
 ];

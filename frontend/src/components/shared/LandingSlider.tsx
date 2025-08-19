@@ -55,7 +55,7 @@ export default function LandingSlider() {
           {TOURS.slice(0, 5).map((item, idx) => {
             return (
               <SwiperSlide>
-                <div className="flex flex-col items-center justify-center h-96 sm:h-[500px] lg:h-[600px] bg-blue-400 w-full relative">
+                <div className="flex flex-col items-center justify-center h-64 sm:h-[450px] lg:h-[600px] bg-blue-400 w-full relative">
                   <Image
                     src={item.image}
                     alt=""

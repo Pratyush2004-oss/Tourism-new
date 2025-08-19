@@ -1,3 +1,4 @@
+import React from "react";
 import {
   Card,
   CardContent,
@@ -5,10 +6,10 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { CATEGORYTYPE } from "@/types";
 import Image from "next/image";
+import { PACKAGETYPE } from "@/types";
 import Link from "next/link";
-const PackageCard = ({ item }: { item: CATEGORYTYPE }) => {
+const TourCard = ({ item }: { item: PACKAGETYPE }) => {
   return (
     <Card className="p-0 w-full min-w-60 relative">
       <CardHeader className="p-0 group">
@@ -31,14 +32,14 @@ const PackageCard = ({ item }: { item: CATEGORYTYPE }) => {
           <h1 className="font-bold text-blue-700">₹{item.starting}</h1>
         </div>
         <Link
-          href={`/category/${item.name}`}
+          href={"#"}
           className="underline text-blue-800 font-bold cursor-pointer"
         >
-          View
+          Know More
         </Link>
       </CardFooter>
     </Card>
   );
 };
 
-export default PackageCard;
+export default TourCard;
