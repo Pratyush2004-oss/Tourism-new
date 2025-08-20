@@ -32,7 +32,7 @@ const TourCard = ({ item }: { item: PACKAGETYPE }) => {
           <h1 className="font-bold text-blue-700">₹{item.starting}</h1>
         </div>
         <Link
-          href={"#"}
+          href={`/packages/${item.name.replaceAll(" ", "-")}`}
           className="underline text-blue-800 font-bold cursor-pointer"
         >
           Know More
