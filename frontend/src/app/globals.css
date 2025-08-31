@@ -120,3 +120,13 @@
     @apply bg-background text-foreground;
   }
 }
+
+* {
+  overscroll-behavior: calc(var(--scroll-behavior, none));
+  scrollbar-width: thin;
+  scrollbar-color: #50a2ff #f0f4ff;
+}
+.details-container{
+  scrollbar-width: none;
+  scrollbar-color: #50a2ff #f0f4ff;
+}
