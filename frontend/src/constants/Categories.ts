@@ -83,7 +83,7 @@ export const CATEGORIES = [
     name: "Customized-Trips",
     image:
       "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGltYWxheWF8ZW58MHx8MHx8fDA%3D",
-    starting: 3000,
+    starting: 5000,
     Packages: [
       {
         name: "Kedarnath Trek",
