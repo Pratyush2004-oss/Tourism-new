@@ -182,6 +182,7 @@ export const TOURS = [
     cancellation_policy:
       "A 30% advance payment is mandatory to confirm the booking. The advance amount is strictly non-refundable as the trip is organized on short notice.",
   },
+  
   {
     name: "Kedarnath Trek",
     price: 7000,
